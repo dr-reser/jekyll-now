@@ -6,7 +6,7 @@ date: 2016-06-08
 categories: articles
 tags: [R]
 comments: true
-share:true
+share: true
 ---
 
 
