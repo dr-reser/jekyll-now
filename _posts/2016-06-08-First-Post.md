@@ -21,9 +21,6 @@ This is some text
 plot(rnorm(100))
 ```
 
-![plot of chunk graphics](figure/graphics-1.png)
-
-
 ## Some math
 
 LaTeX: $\alpha_2 = \beta^3$
