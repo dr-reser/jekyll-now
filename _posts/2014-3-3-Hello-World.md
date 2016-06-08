@@ -1,6 +1,6 @@
 ---
 layout: post
-title: You're up and running, mate!
+title: You're up and running, mate mate!
 ---
 
 ## Test or no Test
