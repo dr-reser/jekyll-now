@@ -23,7 +23,7 @@ And some more text
 plot(rnorm(100))
 ```
 
-![plot of chunk graphics](figures/graphics-1.png)
+![plot of chunk graphics](_assets/images/graphics-1.png)
 
 
 ## Some math
