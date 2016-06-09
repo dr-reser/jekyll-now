@@ -6,13 +6,15 @@ date: 2016-06-08
 categories: articles
 tags: [R]
 comments: true
-share:true
+share: true
 ---
 
 
 # My first example using Markdown
 
 This is some text
+
+And some more text
 
 ## Here comes an example with a plot
 
@@ -21,7 +23,7 @@ This is some text
 plot(rnorm(100))
 ```
 
-![plot of chunk graphics](figure/graphics-1.png)
+![plot of chunk graphics]({{ site.baseurl }}/_posts/figure/graphics-1.png)
 
 
 ## Some math
