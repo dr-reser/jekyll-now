@@ -6,13 +6,15 @@ date: 2016-06-08
 categories: articles
 tags: [R]
 comments: true
-share:true
+share: true
 ---
 
 
-# My first example using Markdown
+## My first example using Markdown
 
 This is some text
+
+This is new to me ...
 
 ## Here comes an example with a plot
 
@@ -20,9 +22,6 @@ This is some text
 ```r
 plot(rnorm(100))
 ```
-
-![plot of chunk graphics](figure/graphics-1.png)
-
 
 ## Some math
 
