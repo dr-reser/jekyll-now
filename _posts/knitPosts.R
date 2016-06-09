@@ -5,5 +5,5 @@
 
 
 library(knitr)
-setwd('/Users/Andreas/Workspace/Test/Blog01/')
-knit('Blog.Rmd')
+setwd('/Users/Andreas/git/dr-reser.github.io/_posts')
+knit('2016-06-08-First-Post.Rmd')
