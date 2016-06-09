@@ -6,7 +6,7 @@ date: 2016-06-08
 categories: articles
 tags: [R]
 comments: true
-share: true
+share:true
 ---
 
 
@@ -20,6 +20,9 @@ This is some text
 ```r
 plot(rnorm(100))
 ```
+
+![plot of chunk graphics](figure/graphics-1.png)
+
 
 ## Some math
 
